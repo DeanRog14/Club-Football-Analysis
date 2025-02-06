@@ -16,11 +16,11 @@ Clean Dataset
 
 ## Installation & Usage
 
-1. Clone the Repository 
-Run:
-git clone https://github.com/DeanRog14/Club-Football-Analysis.git
-cd Club-Football-Analysis
+1. Clone the Repository  
+Run:  
+git clone https://github.com/DeanRog14/Club-Football-Analysis.git  
+cd Club-Football-Analysis  
 
-2. Installing dependencies
-Run:
-pip install numpy pandas matplotlib seaborn
+2. Installing dependencies  
+Run:  
+pip install numpy pandas matplotlib seaborn  
